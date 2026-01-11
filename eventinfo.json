@@ -1,16 +1,14 @@
-        let events = {
-            "career fair": {
-                name: "Careers Fair",
-                date: "February 10th 2026 at 2PM",
-                location: "Student Lounge Room 4S",
-                description: "A careers fair with reputable employers that will be offering internships and graduate roles."
-            },
-
-            "study session": {
-                name: "Study Session",
-                date: "February 12th 2026 at 4PM",
-                location: "Aryllian Building Room 61A",
-                description: "A study session where students can revise together and ask questions."
-            }
-        };
-
+{
+  "career fair": {
+    "name": "Careers Fair",
+    "date": "February 10th 2026 at 2PM",
+    "location": "Student Lounge Room 4S",
+    "description": "A careers fair with reputable employers that will be offering internships and graduate roles."
+  },
+  "study session": {
+    "name": "Study Session",
+    "date": "February 12th 2026 at 4PM",
+    "location": "Aryllian Building Room 61A",
+    "description": "A study session where students can revise together and ask questions."
+  }
+}
